@@ -1,0 +1,2 @@
+java -jar fileclient.jar
+
